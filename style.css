@@ -1,0 +1,155 @@
+.sign-button{
+    background-color: white;
+    color: black;
+   
+    cursor: pointer;
+    border-radius: 15px;
+    border-color: black;
+    padding-top: 7px;
+    padding-bottom:7px;
+    padding-right: 16px;
+    padding-left: 16px;
+    text-align: center;
+    border-style:  solid;
+    font-size: 10px;
+    font-weight: bold;
+    margin-left: 150px;
+
+
+}
+.sign-button:hover{
+    background-color: rgb(193, 175, 175);
+}
+
+
+.join-button{
+    background-color: black;
+    color: white;
+   
+    cursor: pointer;
+    border-radius: 15px;
+    border-color: black;
+    padding-top: 7px;
+    padding-bottom:7px;
+    padding-right: 16px;
+    padding-left: 16px;
+    text-align: center;
+    border-style:  solid;
+    font-size: 10px;
+    font-weight: bold;
+    margin-left: 10px;
+
+
+}
+.join-button:hover{
+    background-color: rgb(193, 175, 175);
+    
+}
+.location{
+    margin-top: 12px;
+    padding-left: 20px;
+}
+
+
+.img-area1{
+    background-color: blue;
+    width: 50%;
+    height: 600px;
+    padding: 0; /* Remove any padding that could interfere */
+    overflow: hidden; 
+    
+    
+}
+.text-area1{
+    
+    width: 50%;
+    height: 600px;
+    text-align: center;
+    
+    
+}
+.first-img{
+    
+    width: 100%;
+    height: 100%;
+    
+}
+.title{
+    margin-top: 200px;
+    width: 393px;
+    text-align: center;
+    margin-left: 100px;
+    color: #1e3932;
+    font-size: 50px;
+    letter-spacing: 2px;
+    line-height: 1.2;
+}
+.sub-title{
+    color: #1e3932;
+    width: 520px;
+    font-size: 24px;
+    margin-left: 51px;
+}
+.send-button{
+    background-color: transparent;
+    cursor: pointer;
+    border-radius: 15px;
+    padding-bottom: 5px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 5px;
+    font-weight: bold;
+
+}
+.valid-text{
+    font-size: 15px;
+    text-align: center;
+    line-height: 1.8;
+    color: black;
+    width: 575px;
+    margin-left: 400px;
+}
+.valid-text2{
+    padding-top: 80px;
+    font-size: 15px;
+    text-align: center;
+    line-height: 1.8;
+    color: black;
+    
+}
+
+th{
+    color: #000000DE;
+    font-size: 24px;
+}
+td{
+    color: #00000094;
+    padding: 8px;
+}
+.icon-list{
+    list-style-type: none;
+
+}
+.icon-list li {
+    display: inline-block;
+    margin: 0 10px; /* Space between icons */
+    size: 10px;
+}
+.footer-list{
+    list-style-type:none;
+    
+}
+.footer-list li,a{
+    padding:8px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+
+}
+.footer-list p{
+    padding:8px;
+   
+    color: #1e3932;
+    font-size: 18px;
+
+}
